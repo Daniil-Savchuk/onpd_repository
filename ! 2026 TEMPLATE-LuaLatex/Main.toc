@@ -1,0 +1,7 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {chapter}{ПЕРЕЛІК ІЛЮСТРАЦІЙ}{2}{Doc-Start}%
+\contentsline {chapter}{ПЕРЕЛІК ТАБЛИЦЬ}{3}{Doc-Start}%
+\contentsline {chapter}{ВСТУП}{4}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Огляд літератури та теоретичні основи}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Перший розділ першої Глави}{5}{section.1.1}%
+\contentsline {section}{\numberline {.1}Поздовжній удар вантажу по стрижню}{8}{appendix.Alph0.1}%

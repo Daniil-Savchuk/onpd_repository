@@ -1,0 +1,120 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{8509038}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=a7ec92a6b1b1182f1c7fefa888526428}{%
+           family={Sahu},
+           familyi={S\bibinitperiod},
+           given={Susmita},
+           giveni={S\bibinitperiod}}}%
+        {{hash=885d08d683769748d124a5bab01b810c}{%
+           family={Sarma},
+           familyi={S\bibinitperiod},
+           given={Himadri},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8425d821c09fed96325e183057b78fc3}{%
+           family={Jyoti\bibnamedelima Bora},
+           familyi={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Dibya},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{fullhash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{fullhashraw}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{bibnamehash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{authorbibnamehash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{authornamehash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{authorfullhash}{962629aa78d93f6cb791bc9c9b947a1b}
+      \strng{authorfullhashraw}{962629aa78d93f6cb791bc9c9b947a1b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 International Conference on Research in Intelligent and Computing in Engineering (RICE)}
+      \field{title}{Image Segmentation and its Different Techniques: An In-Depth Analysis}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1109/RICE.2018.8509038
+      \endverb
+    \endentry
+    \entry{zhu2021deformable}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=19309053ea27cb5af23921c399ac27f8}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xizhou},
+           giveni={X\bibinitperiod}}}%
+        {{hash=023e479291de1262454c46e62e12f856}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Weijie},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1d33474fafd3bc29d4e8af08cf36e8d4}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Lewei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cd1e4e648b0074e1d1f4427d70297b0a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Bin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e88500bd6ca50746707a22554761b61a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaogang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c80dbb87ee6058c0b81ab8ee017f1170}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Jifeng},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{354e86af5a55a7cef98751ff74813a3c}
+      \strng{fullhash}{3774235f764c9664761df5c83da5c757}
+      \strng{fullhashraw}{3774235f764c9664761df5c83da5c757}
+      \strng{bibnamehash}{354e86af5a55a7cef98751ff74813a3c}
+      \strng{authorbibnamehash}{354e86af5a55a7cef98751ff74813a3c}
+      \strng{authornamehash}{354e86af5a55a7cef98751ff74813a3c}
+      \strng{authorfullhash}{3774235f764c9664761df5c83da5c757}
+      \strng{authorfullhashraw}{3774235f764c9664761df5c83da5c757}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Learning Representations (ICLR)}
+      \field{title}{Deformable {DETR}: Deformable Transformers for End-to-End Object Detection}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://openreview.net/forum?id=gZ9hCDWe6ke
+      \endverb
+      \verb{url}
+      \verb https://openreview.net/forum?id=gZ9hCDWe6ke
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
